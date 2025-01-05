@@ -45,13 +45,6 @@ To run this project locally, ensure you have the following dependencies installe
 pip install numpy pandas scikit-learn xgboost seaborn matplotlib
 ```
 
-You can clone the repository and run the scripts as follows:
-
-```bash
-git clone https://github.com/SanjeevGO123/PatientDisease.git
-cd PatientDisease
-```
-
 ## Running the Project
 
 1. **Data Preprocessing**:
